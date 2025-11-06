@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Latth\\Desktop\\CS-essentials\\Oefeningen\\demoInlog\\demoInlog\\demoInlog.csproj": {}
+    "C:\\Users\\Latth\\Inlog-Lp\\demoInlog\\demoInlog\\demoInlog.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Latth\\Desktop\\CS-essentials\\Oefeningen\\demoInlog\\demoInlog\\demoInlog.csproj": {
+    "C:\\Users\\Latth\\Inlog-Lp\\demoInlog\\demoInlog\\demoInlog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Latth\\Desktop\\CS-essentials\\Oefeningen\\demoInlog\\demoInlog\\demoInlog.csproj",
+        "projectUniqueName": "C:\\Users\\Latth\\Inlog-Lp\\demoInlog\\demoInlog\\demoInlog.csproj",
         "projectName": "demoInlog",
-        "projectPath": "C:\\Users\\Latth\\Desktop\\CS-essentials\\Oefeningen\\demoInlog\\demoInlog\\demoInlog.csproj",
+        "projectPath": "C:\\Users\\Latth\\Inlog-Lp\\demoInlog\\demoInlog\\demoInlog.csproj",
         "packagesPath": "C:\\Users\\Latth\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Latth\\Desktop\\CS-essentials\\Oefeningen\\demoInlog\\demoInlog\\obj\\",
+        "outputPath": "C:\\Users\\Latth\\Inlog-Lp\\demoInlog\\demoInlog\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Latth\\AppData\\Roaming\\NuGet\\NuGet.Config",

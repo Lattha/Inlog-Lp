@@ -5,7 +5,11 @@
         static void Main(string[] args)
         {
             Console.Write("Gebruikersnaam: ");
-            string userName = Console.ReadLine();  
+            string userName = Console.ReadLine();
+
+            Console.Write("Wachtwoord");
+            string password = Console.ReadLine();
+
         }
     }
 }
