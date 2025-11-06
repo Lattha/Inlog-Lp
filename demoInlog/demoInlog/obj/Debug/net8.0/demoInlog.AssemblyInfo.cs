@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("demoInlog")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e40cdbdd28a32bdad24d798757f593b3c082df16")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+832beb31e5574483d3b11670a10032dc05904eee")]
 [assembly: System.Reflection.AssemblyProductAttribute("demoInlog")]
 [assembly: System.Reflection.AssemblyTitleAttribute("demoInlog")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+C:\Users\Latth\Inlog-Lp\demoInlog\demoInlog\bin\Debug\net8.0\demoInlog.exe
+C:\Users\Latth\Inlog-Lp\demoInlog\demoInlog\bin\Debug\net8.0\demoInlog.deps.json
+C:\Users\Latth\Inlog-Lp\demoInlog\demoInlog\bin\Debug\net8.0\demoInlog.runtimeconfig.json
+C:\Users\Latth\Inlog-Lp\demoInlog\demoInlog\bin\Debug\net8.0\demoInlog.dll
+C:\Users\Latth\Inlog-Lp\demoInlog\demoInlog\bin\Debug\net8.0\demoInlog.pdb
+C:\Users\Latth\Inlog-Lp\demoInlog\demoInlog\obj\Debug\net8.0\demoInlog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Latth\Inlog-Lp\demoInlog\demoInlog\obj\Debug\net8.0\demoInlog.AssemblyInfoInputs.cache
+C:\Users\Latth\Inlog-Lp\demoInlog\demoInlog\obj\Debug\net8.0\demoInlog.AssemblyInfo.cs
+C:\Users\Latth\Inlog-Lp\demoInlog\demoInlog\obj\Debug\net8.0\demoInlog.csproj.CoreCompileInputs.cache
+C:\Users\Latth\Inlog-Lp\demoInlog\demoInlog\obj\Debug\net8.0\demoInlog.sourcelink.json
+C:\Users\Latth\Inlog-Lp\demoInlog\demoInlog\obj\Debug\net8.0\demoInlog.dll
+C:\Users\Latth\Inlog-Lp\demoInlog\demoInlog\obj\Debug\net8.0\refint\demoInlog.dll
+C:\Users\Latth\Inlog-Lp\demoInlog\demoInlog\obj\Debug\net8.0\demoInlog.pdb
+C:\Users\Latth\Inlog-Lp\demoInlog\demoInlog\obj\Debug\net8.0\demoInlog.genruntimeconfig.cache
+C:\Users\Latth\Inlog-Lp\demoInlog\demoInlog\obj\Debug\net8.0\ref\demoInlog.dll
